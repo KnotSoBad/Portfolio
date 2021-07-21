@@ -1,0 +1,13 @@
+body {
+    Background-color: rgb(232, 255, 254);
+}
+
+h1 {
+    color: rgb(0, 0, 66);
+    text-align: center;
+}
+
+p {
+    font-family: roboto;
+    font-size:20px;
+}
